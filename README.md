@@ -24,8 +24,11 @@ This project is a sales performance dashboard built with **Power BI**, using dat
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Screenshot Sales Over View](https://github.com/user-attachments/assets/dcd7c8bb-5943-4c10-ae16-21ae8ab4a3fe)
+![Screenshot Products Details](https://github.com/user-attachments/assets/e8ad6043-eb57-4e4f-b2a0-4c344eee8229)
+![Screenshot Customer Details](https://github.com/user-attachments/assets/2881ad04-48d8-4e61-8220-de389595ce96)
 
 ---
 
 ✅ Feel free to explore the dashboard, and contact me if you’re looking for a custom business intelligence solution.
+
